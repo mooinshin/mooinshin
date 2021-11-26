@@ -1,6 +1,5 @@
 # Hello i'am Maksim
 - **`I like programming`**
-- **about me [file](https://github.com/mooinshin/mooinshin/blob/main/About_Me.py)**
 - **My programming langue are [python](https://python.org)**
 - **My langue are `Russian`**
 - **you are talk with me ?**
